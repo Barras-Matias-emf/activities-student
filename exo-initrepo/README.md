@@ -12,7 +12,7 @@
 ---
 ## Consigne
 Cette activité vous permettra d'utiliser Github pour le dépôt des sources de l'application "petites annonces" que nous avons pris en main dans l'activité précédente. C'est le point de départ de votre projet.
-
+x
 ---
 ## Création du repository
 A l'aide du compte d'une personne du groupe :
